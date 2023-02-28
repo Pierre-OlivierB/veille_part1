@@ -6,13 +6,7 @@ Test Sheet
 
 ### Css Proprety :
 
-#### flex(1, 1, auto)
-
-#### overscroll-behavior
-
 #### overflow-y: auto (actions on scroll bar)
-
-#### scrollbar-gutter : stable
 
 #### repeat(auto-fill or auto-fit)
 
@@ -21,6 +15,10 @@ Test Sheet
 #### has()
 
 #### :focus-within
+
+#### overscroll-behavior
+
+#### scrollbar-gutter : stable
 
 #### scroll-snap
 
@@ -43,3 +41,5 @@ Test Sheet
 #### min()
 
 #### clamp(min, value, max)
+
+#### flex(1, 1, auto)

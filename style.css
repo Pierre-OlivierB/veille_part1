@@ -88,3 +88,12 @@ body {
   justify-content: space-evenly;
   flex: 1 1 200px;
 }
+
+/** overflow-y */
+
+#overflow {
+  width: 25%;
+  padding: 2px;
+  background: hsl(320, 100%, 50%);
+  overflow-y: auto;
+}
