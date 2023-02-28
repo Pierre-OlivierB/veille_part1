@@ -6,8 +6,6 @@ Test Sheet
 
 ### Css Proprety :
 
-#### clamp(min, value, max)
-
 #### flex(1, 1, auto)
 
 #### overscroll-behavior
@@ -43,3 +41,5 @@ Test Sheet
 #### box shadow en keyframe au hover transition on el
 
 #### min()
+
+#### clamp(min, value, max)
