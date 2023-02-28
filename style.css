@@ -97,3 +97,9 @@ body {
   background: hsl(320, 100%, 50%);
   overflow-y: auto;
 }
+
+/** repeat(auto-fill or auto-fit) */
+#repeat {
+  background: url(./unlimited2.png);
+  background-image: repeat(auto-fill);
+}
