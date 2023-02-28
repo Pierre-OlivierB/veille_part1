@@ -56,4 +56,11 @@ body {
   color: hsl(0, 100%, 50%);
 }
 
-/**  */
+/**box shadow */
+#boxShadow {
+  box-shadow: 2px 2px 2px 2px hsl(0, 0%, 90%);
+  transition: box-shadow 2s ease;
+}
+#boxShadow:hover {
+  box-shadow: 7px 7px 2px 2px hsl(0, 0%, 30%);
+}
