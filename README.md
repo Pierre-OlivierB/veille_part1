@@ -6,10 +6,6 @@ Test Sheet
 
 ### Css Proprety :
 
-#### caret-color
-
-#### ::selection
-
 #### box shadow en keyframe au hover transition on el
 
 #### scroll-snap
@@ -43,3 +39,7 @@ Test Sheet
 ### Css Proprety :
 
 #### animation-iteration-count
+
+#### caret-color
+
+#### ::selection
