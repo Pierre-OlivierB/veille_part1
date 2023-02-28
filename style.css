@@ -66,4 +66,8 @@ body {
   box-shadow: 7px 7px 2px 2px hsl(0, 0%, 30%);
 }
 
-/**  */
+/**min()  */
+#minCond {
+  background: hsl(80, 100%, 50%);
+  width: min(200px, 20%);
+}

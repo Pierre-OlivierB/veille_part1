@@ -6,8 +6,6 @@ Test Sheet
 
 ### Css Proprety :
 
-#### min()
-
 #### clamp(min, value, max)
 
 #### flex(1, 1, auto)
@@ -43,3 +41,5 @@ Test Sheet
 #### ::selection
 
 #### box shadow en keyframe au hover transition on el
+
+#### min()
