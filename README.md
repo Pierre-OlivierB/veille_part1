@@ -2,9 +2,9 @@
 
 Test Sheet
 
-## Css Proprety :
+## To do:
 
-#### animation-iteration-count
+### Css Proprety :
 
 #### caret-color
 
@@ -34,6 +34,12 @@ Test Sheet
 
 #### :focus-within
 
-## Html Property
+### Html Property
 
 #### attribut : hidden
+
+## Done :
+
+### Css Proprety :
+
+#### animation-iteration-count
