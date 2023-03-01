@@ -6,8 +6,6 @@ Test Sheet
 
 ### Css Proprety :
 
-#### has()
-
 #### :focus-within
 
 #### overscroll-behavior
@@ -43,3 +41,5 @@ Test Sheet
 #### repeat(auto-fill or auto-fit)
 
 #### not()
+
+#### has()
