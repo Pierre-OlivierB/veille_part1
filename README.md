@@ -6,8 +6,6 @@ Test Sheet
 
 ### Css Proprety :
 
-#### repeat(auto-fill or auto-fit)
-
 #### not()
 
 #### has()
@@ -43,3 +41,5 @@ Test Sheet
 #### flex(1, 1, auto)
 
 #### overflow-y: auto (actions on scroll bar)
+
+#### repeat(auto-fill or auto-fit)

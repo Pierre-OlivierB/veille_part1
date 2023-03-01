@@ -99,7 +99,26 @@ body {
 }
 
 /** repeat(auto-fill or auto-fit) */
-#repeat {
-  background: url(./unlimited2.png);
-  background-image: repeat(auto-fill);
+#repeat-fill {
+  background: hsl(280, 100%, 50%);
+  width: 90%;
+  height: 100px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(125px, 1fr));
+  grid-gap: 10px;
+  padding: 5px;
+}
+#repeat-fit {
+  background: hsl(280, 100%, 50%);
+  width: 90%;
+  height: 100px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(125px, 1fr));
+  grid-gap: 10px;
+  padding: 5px;
+}
+
+#repeat-fill div,
+#repeat-fit div {
+  background: hsl(0, 100%, 50%);
 }
