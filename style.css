@@ -145,6 +145,6 @@ body {
   background: hsl(160, 100%, 50%);
 }
 /* *has */
-#not div:has(.no) {
+#not div:has(p) {
   background: hsl(120, 100%, 50%);
 }

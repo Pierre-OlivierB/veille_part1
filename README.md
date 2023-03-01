@@ -6,8 +6,6 @@ Test Sheet
 
 ### Css Proprety :
 
-#### not()
-
 #### has()
 
 #### :focus-within
@@ -43,3 +41,5 @@ Test Sheet
 #### overflow-y: auto (actions on scroll bar)
 
 #### repeat(auto-fill or auto-fit)
+
+#### not()
