@@ -122,3 +122,29 @@ body {
 #repeat-fit div {
   background: hsl(0, 100%, 50%);
 }
+/* *not */
+#not {
+  width: 50%;
+  height: 100px;
+  background: hsl(240, 100%, 50%);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.yes,
+.no {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 40%;
+  height: 90%;
+  background: hsl(200, 100%, 50%);
+}
+#not div:not(.no) {
+  background: hsl(160, 100%, 50%);
+}
+/* *has */
+#not div:has(.no) {
+  background: hsl(120, 100%, 50%);
+}
