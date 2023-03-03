@@ -178,3 +178,10 @@ body {
   /* backdrop-filter: sepia(80%); */
   backdrop-filter: invert(80%);
 }
+/* * overscroll-behavior */
+#scrollBehavior {
+  padding: 3px;
+  overflow: scroll;
+  height: 100px;
+  overscroll-behavior: contain;
+}
