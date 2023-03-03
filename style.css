@@ -148,3 +148,13 @@ body {
 #not div:has(p) {
   background: hsl(120, 100%, 50%);
 }
+/* *:focus-within */
+#focusWithin {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: hsl(80, 100%, 50%);
+}
+#focusWithin:focus-within {
+  background: hsl(40, 100%, 50%);
+}
